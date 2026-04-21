@@ -8,7 +8,7 @@ The objective was to transform raw sales data into meaningful insights that supp
 ---
 
 ## 🔹 Dashboard Preview
-![Sales Dashboard](PowerBI Sales Analysis Dashboard.png)
+![Power BI Sales Analysis Dashboard](PowerBI Sales Analysis Dashboard.png)
 
 > 📌 This dashboard provides a high-level view of sales performance, highlighting key trends in revenue, profit, and customer behavior.
 
